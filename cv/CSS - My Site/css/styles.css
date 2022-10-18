@@ -1,0 +1,139 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Exo 2', sans-serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+/* 16px = 100% = 1em */
+h2 {
+  color: #66BFBF;
+  font-family: 'Merienda', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Merienda', cursive;
+}
+
+hr {
+  width: 4%;
+  border: dotted lightgray 0.6rem;
+  border-bottom: none;
+  margin: 100px auto;
+}
+
+a {
+  color: #11999E;
+}
+
+.bottom-cloud {
+  left: 450px;
+  position: absolute;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-top: 2rem;
+  padding: 50px 0 20px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Merienda', cursive;
+  padding: 10px 20px 10px 20px;
+  margin: 2rem;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.contact-me {
+  width: 30%;
+  line-height: 2;
+  margin: auto;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.footer-link {
+  color: #11999E;
+  margin: 10px 20px;
+  font-family: 'Merienda', cursive;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.skill-image {
+  width: 25%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 50px;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 40px;
+}
+
+.photo-image {
+  float: left;
+  margin-right: 30px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile-picture {
+  background-color: #FAD9A1;
+  border-radius: 100%;
+}
+
+.programming-image {
+  float: right;
+  margin-left: 30px;
+}
